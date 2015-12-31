@@ -1,4 +1,3 @@
-@@ -1,66 +0,0 @@
 /**
  * SyntaxHighlighter
  * http://alexgorbatchev.com/SyntaxHighlighter
