@@ -24,9 +24,9 @@
 	};
 
 	Brush.prototype	= new SyntaxHighlighter.Highlighter();
-	//Brush.aliases	= ['vb', 'vbnet'];
+	Brush.aliases	= ['swift'];
 
-	SyntaxHighlighter.brushes.swift = Brush;
+	SyntaxHighlighter.brushes.Swift = Brush;
 
 	// CommonJS
 	typeof(exports) != 'undefined' ? exports.Brush = Brush : null;
