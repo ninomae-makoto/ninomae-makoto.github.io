@@ -1,6 +1,6 @@
 
 
-window.addEventListener("load", (e) => {
+window.addEventListener("load", function(e) {
 /**
  * SyntaxHighlighter
  * http://alexgorbatchev.com/SyntaxHighlighter
