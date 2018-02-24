@@ -1,6 +1,6 @@
 
 
-window.addEventListener("load", function(e) {
+// window.addEventListener("load", function(e) {
 /**
  * SyntaxHighlighter
  * http://alexgorbatchev.com/SyntaxHighlighter
@@ -877,4 +877,4 @@ eval(function(p,a,c,k,e,d){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a
 SyntaxHighlighter.config.bloggerMode = true;
 SyntaxHighlighter.all();
 
-})
+//})
